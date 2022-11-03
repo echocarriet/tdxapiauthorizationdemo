@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunktdxapiauthorization"]=self["webpackChunktdxapiauthorization"]||[]).push([[381],{7381:function(t,a,n){n.r(a),n.d(a,{default:function(){return d}});var u=n(6252);const i={class:"about"},r=(0,u._)("h1",null,"This is an about page",-1),e=[r];function o(t,a){return(0,u.wg)(),(0,u.iD)("div",i,e)}var s=n(3744);const c={},h=(0,s.Z)(c,[["render",o]]);var d=h}}]);
+//# sourceMappingURL=381.f3bd5753.js.map
